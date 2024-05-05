@@ -37,7 +37,7 @@
 <h2 align="center">⚒️ Languages|Frameworks|Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,css,git,html,java,py" />
+    <img src="https://skillicons.dev/icons?i=arduino,c,cpp,css,git,html,java,js,py,raspberrypi,sklearn" />
 </div>
 
 <hr/>
