@@ -10,9 +10,9 @@
 
 <div align="center">
  
- <!--🔭 I’m currently working on **a marketplace**-->
+ 🔭 I’m currently working on **a game**
  
- 🌱 I’m currently learning **Python, JavaScript**
+ 🌱 I’m currently learning **Python, JavaScript, C#**
 
 <!--💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**-->
 
@@ -37,7 +37,7 @@
 <h2 align="center">⚒️ Languages|Frameworks|Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=arduino,c,cpp,css,git,html,java,js,py,raspberrypi,sklearn" />
+    <img src="https://skillicons.dev/icons?i=arduino,c,cpp,cs,css,django,dotnet,flask,git,html,java,js,mysql,py,raspberrypi,sklearn" />
 </div>
 
 <hr/>
