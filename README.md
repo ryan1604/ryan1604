@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a game**
  
- 🌱 I’m currently learning **Python, JavaScript, C#**
+ 🌱 I’m currently learning **JavaScript, C#, & ML**
 
 <!--💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**-->
 
