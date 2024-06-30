@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a game**
+ <!--🔭 I’m currently working on **a game**-->
  
- 🌱 I’m currently learning **JavaScript, C#, & ML**
+ 🌱 I’m currently learning **React & ML**
 
 <!--💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**-->
 
@@ -44,7 +44,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com?user=ryan1604&theme=react&border_radius=10" alt="GitHub Streak"/>
+  <img width=390 src="https://github-readme-streak-stats-kohl-pi.vercel.app?user=ryan1604&theme=react&border_radius=10" alt="GitHub Streak"/>
   <img width=390 src="https://github-readme-stats-phi-two-20.vercel.app/api?username=ryan1604&count_private=true&show_icons=true&theme=react&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-phi-two-20.vercel.app/api/top-langs/?username=ryan1604&langs_count=10&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
