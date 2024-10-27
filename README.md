@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋+I'm+Ryan!;" />
 </h1>
 
-<h3 align="center">Computer Engineering Sophomore at National University of Singapore (NUS) 🇸🇬</h3>
+<h3 align="center">Third Year Computer Engineering Student at National University of Singapore (NUS) 🇸🇬</h3>
 
 <br/>
 
@@ -12,7 +12,7 @@
  
  <!--🔭 I’m currently working on **a game**-->
  
- 🌱 I’m currently learning **React & ML**
+ 🌱 I’m currently learning **AI/ML, React & Go**
 
 <!--💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**-->
 
@@ -37,7 +37,7 @@
 <h2 align="center">⚒️ Languages|Frameworks|Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=arduino,c,cpp,cs,css,django,dotnet,flask,git,html,java,js,mysql,py,raspberrypi,sklearn" />
+    <img src="https://skillicons.dev/icons?i=arduino,c,cpp,cs,css,django,flask,git,go,html,java,js,nextjs,nodejs,postgres,py,pytorch,raspberrypi,react,sklearn,tailwind,tensorflow,ts" />
 </div>
 
 <hr/>
