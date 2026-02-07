@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋+I'm+Ryan!;" />
 </h1>
 
-<h3 align="center">Third Year Computer Engineering Student at National University of Singapore (NUS) 🇸🇬</h3>
+<h3 align="center">Final Year Computer Engineering Student at National University of Singapore (NUS) 🇸🇬</h3>
 
 <br/>
 
@@ -12,7 +12,7 @@
  
  <!--🔭 I’m currently working on **a game**-->
  
- 🌱 I’m currently learning **AI/ML, React & Go**
+ 🌱 I’m currently learning/exploring **ML and AI Agents**
 
 <!--💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**-->
 
@@ -27,9 +27,9 @@
   <a href="https://linkedin.com/in/ryancqw" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <!--<a href="https://ryan1604.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options 
-  </a>-->
+  <a href="https://ryancqw.pages.dev" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
 </div>
 
 <hr/>
