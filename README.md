@@ -34,18 +34,37 @@
 
 <hr/>
  
-<h2 align="center">⚒️ Languages|Frameworks|Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=arduino,c,cpp,cs,css,django,flask,git,go,html,java,js,nextjs,nodejs,postgres,py,pytorch,raspberrypi,react,sklearn,tailwind,tensorflow,ts" />
-</div>
-
-<hr/>
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-kohl-pi.vercel.app?user=ryan1604&theme=react&border_radius=10" alt="GitHub Streak"/>
-  <img width=390 src="https://github-readme-stats-phi-two-20.vercel.app/api?username=ryan1604&count_private=true&show_icons=true&theme=react&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-phi-two-20.vercel.app/api/top-langs/?username=ryan1604&langs_count=10&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats,github-readme-streak-stats" alt="top langs" />
-</div>
+<h2>All Projects</h2>
+<!-- <a href=""></a><br>
+<a href=""></a><br>
+<a href=""></a><br>
+<a href=""></a><br>
+<a href=""></a><br>
+<a href=""></a><br>
+<a href=""></a><br>
+<a href=""></a><br>
+<a href=""></a><br>
+<a href=""></a><br>
+<a href=""></a><br>
+<a href=""></a><br>
+<a href=""></a><br>
+<a href=""></a><br>
+<a href=""></a><br> -->
+<a href="https://github.com/ryan1604/fraud-detection">🕵️‍♂️Fraud Detection</a><br>
+<a href="https://github.com/ryan1604/voice-ai-agent">🎙️Voice AI Agent</a><br>
+<a href="https://github.com/ryan1604/yt-transcript">📜YT Transcript</a><br>
+<a href="https://github.com/ryan1604/CS3244-sarcasm-detection">🙃Sarcasm Detection</a><br>
+<a href="https://github.com/ryan1604/finance-app">💰Finance App</a><br>
+<a href="https://github.com/ryan1604/ai-saas">☁️AI SaaS Platform</a><br>
+<a href="https://github.com/ryan1604/ai-agent">🐍Python AI Agent</a><br>
+<a href="https://github.com/ryan1604/predict-nba-games">🏀Predict NBA Games</a><br>
+<a href="https://github.com/ryan1604/sign-language-detection">🤟Sign Language Detection</a><br>
+<a href="https://github.com/ryan1604/mnist-handwritten-digit-recogniser">✍️MNIST Handwritten Digit Recogniser</a><br>
+<a href="https://github.com/ryan1604/sudoku-solver">🧩Sudoku Solver</a><br>
+<a href="https://github.com/ryan1604/password-manager">🔐Password Manager</a><br>
+<a href="https://github.com/ryan1604/trading-bot">📈Stock Trading Bot</a><br>
+<a href="https://github.com/ryan1604/CG2271">🚗RTOS Remote Controlled Robot Car</a><br>
+<a href="https://github.com/ryan1604/EE2026">🏀⚡FPGA Basketball Jam</a><br>
+<a href="https://github.com/ryan1604/tp">💻CLI Financial Planner</a><br>
+<a href="https://github.com/ryan1604/ip">📝CLI Todo List</a><br>
+<a href="https://github.com/ryan1604/CG2111A">🤖Remote Controlled Robot - RPLidar</a>
