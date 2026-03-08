@@ -52,7 +52,7 @@
 <a href=""></a><br> -->
 <a href="https://github.com/ryan1604/fraud-detection">🕵️‍♂️Fraud Detection</a><br>
 <a href="https://github.com/ryan1604/voice-ai-agent">🎙️Voice AI Agent</a><br>
-<a href="https://github.com/ryan1604/yt-transcript">📜YT Transcript</a><br>
+<a href="https://github.com/ryan1604/audio-transcribe-translate">📜Audio Transcribe Translate</a><br>
 <a href="https://github.com/ryan1604/CS3244-sarcasm-detection">🙃Sarcasm Detection</a><br>
 <a href="https://github.com/ryan1604/finance-app">💰Finance App</a><br>
 <a href="https://github.com/ryan1604/ai-saas">☁️AI SaaS Platform</a><br>
