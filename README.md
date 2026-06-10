@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋+I'm+Ryan!;" />
 </h1>
 
-<h3 align="center">Final Year Computer Engineering Student at National University of Singapore (NUS) 🇸🇬</h3>
+<h2 align="center">AI/ML/SW Engineer 🇸🇬</h3>
 
 <br/>
 
@@ -12,7 +12,7 @@
  
  <!--🔭 I’m currently working on **a game**-->
  
- 🌱 I’m currently learning/exploring **ML and AI Agents**
+ <!--🌱 I’m currently learning/exploring **ML and AI Agents**-->
 
 <!--💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**-->
 
