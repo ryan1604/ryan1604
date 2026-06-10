@@ -48,8 +48,8 @@
 <a href=""></a><br>
 <a href=""></a><br>
 <a href=""></a><br>
-<a href=""></a><br>
 <a href=""></a><br> -->
+<a href="https://github.com/ryan1604/CG4002-Comms">CG4002 Sign Language Learning Platform - Communications</a><br> 
 <a href="https://github.com/ryan1604/fraud-detection">🕵️‍♂️Fraud Detection</a><br>
 <a href="https://github.com/ryan1604/voice-ai-agent">🎙️Voice AI Agent</a><br>
 <a href="https://github.com/ryan1604/audio-transcribe-translate">📜Audio Transcribe Translate</a><br>
